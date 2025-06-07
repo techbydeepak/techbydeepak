@@ -47,7 +47,7 @@
 
 - 📧 Email: **deepakrathour05tech@gmail.com**  
 - 🌐 Portfolio Website:(https://portfolio-website-nu-indol-37.vercel.app/)  
-- 💬 Linkedin: [@techbydeepak]([www.linkedin.com/in/deepak-rathour-05sep2005](https://www.linkedin.com/in/deepak-rathour-05sep2005/))  
+- 💬 Linkedin: [@techbydeepak]([https://www.linkedin.com/in/deepak-rathour-05sep2005/]))  
 - 📝 I love to share projects & contribute to open-source.
 
 ---
